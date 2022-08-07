@@ -1,0 +1,52 @@
+.calculatorUI {
+    width: 400px;
+    border: 1px solid white;
+    color: white;
+    align-items: center;
+    }
+
+answer{
+    background-color: skyblue;
+    color: black;
+    padding:5px;
+    margin:5px;
+    border:5px;
+    border-radius:5px;
+    border-color:transparent;
+    text-align: center;
+    }
+
+
+body {
+    background-color: #1E1E1E;
+    }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    }
+
+.tableNumber {
+    background-color: orange;
+    color: black;
+    padding:5px;
+    margin:5px;
+    border:5px;
+    border-radius:5px;
+    border-color:transparent;
+    width:25%;
+    text-align: center;
+    }
+
+.tableOther {
+    background-color: darkgrey;
+    color: white;
+    padding:5px;
+    margin:5px;
+    border:5px;
+    border-radius:5px;
+    border-color:transparent;
+    width:25%;
+    text-align: center;
+    }
