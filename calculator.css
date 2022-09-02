@@ -5,8 +5,8 @@
     align-items: center;
     }
 
-answer{
-    background-color: skyblue;
+.answer{
+    background-color: ivory;
     color: black;
     padding:5px;
     margin:5px;
@@ -14,6 +14,7 @@ answer{
     border-radius:5px;
     border-color:transparent;
     text-align: center;
+    font-size: 200%;
     }
 
 
